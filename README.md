@@ -8,7 +8,6 @@ I love to work with computers and technology, so I self-taught myself and learne
 
 * 🌍  I'm based in Vientiane, Laos
 * ✉️  You can contact me at [sengphachanh.dev@gmail.com](mailto:sengphachanh.dev@gmail.com)
-* ⚡  Fill your cup with coffee
 
 ### Skills
 
