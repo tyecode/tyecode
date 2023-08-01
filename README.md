@@ -4,7 +4,7 @@ Hi 👋 My name is Sengphachanh Chanthavong
 Web Developer
 -------------
 
-Computer Science Student with a passion for web design and development. Completed several projects for personal and academic purposes. Seeking an internship opportunity to apply my coding and creativity skills in a professional environment.
+Computer Science Student with a passion for web design and development. Completed several projects for personal and academic purposes. Seeking for job opportunity to apply my coding and creativity skills in a professional environment.
 
 * 🌍  I'm based in Vientiane, Laos
 * ✉️  You can contact me at [sengphachanh.dev@gmail.com](mailto:sengphachanh.dev@gmail.com)
