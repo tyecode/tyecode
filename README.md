@@ -4,6 +4,14 @@ Hi 👋 My name is Tye
 Developer & Open-Source Contributor
 -----------------------------------
 
+### About
+
+I'm a passionate developer who loves building things that make a difference. I specialize in modern web development technologies and enjoy creating developer tools and community platforms. With expertise in JavaScript, TypeScript, React, Next.js, and various backend technologies, I focus on building scalable and user-friendly applications.
+
+My journey in software development started with a curiosity for solving problems through code. I'm always exploring new technologies and working on projects that challenge me to grow as a developer.
+
+When I'm not coding, you can find me exploring new technologies, working on personal projects, or secretly building something exciting.
+
 *   🌍  I'm based in Vientiane Capital, Laos
 *   🖥️  See my portfolio at [tyecode.dev](http://tyecode.dev)
 *   ✉️  You can contact me at [sengphachanh.dev@gmail.com](mailto:sengphachanh.dev@gmail.com)
