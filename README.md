@@ -1,8 +1,6 @@
-Hi 👋 My name is Tye
-====================
+# Hi 👋 My name is Tye
 
-Developer & Open-Source Contributor
------------------------------------
+## Developer & Open-Source Contributor
 
 ### About
 
@@ -12,10 +10,10 @@ My journey in software development started with a curiosity for solving problems
 
 When I'm not coding, you can find me exploring new technologies, working on personal projects, or secretly building something exciting.
 
-*   🌍  I'm based in Vientiane Capital, Laos
-*   🖥️  See my portfolio at [tyecode.dev](http://tyecode.dev)
-*   ✉️  You can contact me at [sengphachanh.dev@gmail.com](mailto:sengphachanh.dev@gmail.com)
-*   🤝  I'm open to collaborating on developer tools or community platforms
+- 🌍 I'm based in Vientiane Capital, Laos
+- 🖥️ See my portfolio at [tyecode.dev](http://tyecode.dev)
+- ✉️ You can contact me at [sengphachanh.dev@gmail.com](mailto:sengphachanh.dev@gmail.com)
+- 🤝 I'm open to collaborating on developer tools or community platforms
 
 ### Skills
 
@@ -52,11 +50,5 @@ When I'm not coding, you can find me exploring new technologies, working on pers
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-<li style="display: inline-block; margin-right: 0.25rem;">
 <a href="https://www.buymeacoffee.com/tyecode"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</li>
-<li style="display: inline-block; margin-right: 0.25rem;">
 <a href="https://www.ko-fi.com/tyecode"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
-</li>
-</ul>
