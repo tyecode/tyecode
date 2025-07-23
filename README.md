@@ -1,152 +1,161 @@
 <div align="center">
-  <img height="120" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cozy coding gif" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=200&section=header&text=tyecode&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=crafting%20digital%20experiences%20with%20passion&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,6,26&height=100&section=header&text=&fontSize=0" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;From+Vientiane%2C+Laos+%F0%9F%87%B1%F0%9F%87%A6;Building+Tomorrow's+Web+Today+%E2%9C%A8" alt="Typing Animation" />
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tyecode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=8B7355&logoColor=white&labelColor=D4A574&style=flat-square" height="28" alt="linkedin"  />
+    <img src="https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=764ba2" alt="LinkedIn" />
   </a>
-  <img width="8" />
+  &nbsp;&nbsp;
   <a href="mailto:sengphachanh.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=8B7355&logoColor=white&labelColor=D4A574&style=flat-square" height="28" alt="email"  />
+    <img src="https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=764ba2" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tyecode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=globe&logoColor=white&labelColor=764ba2" alt="Portfolio" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tyecode&style=flat-square&color=D4A574&label=cozy+visitors" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=tyecode&style=for-the-badge&color=667eea&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<br>
+---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&duration=3000&pause=500&color=8B7355&center=true&vCenter=true&width=600&lines=hey+there%2C+welcome+to+my+space+%E2%98%95;crafting+code+with+lo-fi+vibes+%F0%9F%8E%B5;full-stack+developer+from+laos+%F0%9F%87%B1%F0%9F%87%A6" alt="Typing SVG" />
-</h1>
-
-```
-┌─────────────────────────────────────────────────┐
-│                   ~ about me ~                  │
-└─────────────────────────────────────────────────┘
-```
+## 🎯 **About Me**
 
 <div align="center">
-  <img width="400" src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20for%20machines%20to%20dance%20to&author=tyecode" />
+  <img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" />
 </div>
 
-<br>
-
-hey there, fellow wanderer of the digital realm! ✨ i'm a passionate developer who finds joy in crafting code that brings ideas to life. my cozy corner of the internet is filled with modern web technologies, warm cups of coffee, and the gentle hum of lo-fi beats.
-
-with a toolkit featuring javascript, typescript, react, next.js, and various backend friends, i spend my days building applications that feel like home - scalable, user-friendly, and thoughtfully designed.
-
-my coding journey began with a simple curiosity about how things work, and it's grown into a love affair with problem-solving through elegant code. when i'm not lost in lines of code, you'll find me exploring new tech territories, brewing the perfect cup, or secretly crafting something that might just change the world (or at least make it a little cozier).
-
-```
-┌─ currently vibing in ──────────────────────────┐
-│  📍 vientiane capital, laos                    │
-│  🌐 portfolio: tyecode.dev                     │
-│  📧 sengphachanh.dev@gmail.com                 │
-│  🤝 open to collaborations                     │
-└────────────────────────────────────────────────┘
+```javascript
+const tyecode = {
+    location: "Vientiane, Laos 🇱🇦",
+    role: "Full-Stack Developer",
+    languages: ["JavaScript", "TypeScript", "Python"],
+    frameworks: ["React", "Next.js", "Node.js"],
+    databases: ["MongoDB", "PostgreSQL"],
+    tools: ["Docker", "Git", "VS Code"],
+    currentFocus: "Building scalable web applications",
+    funFact: "I code better with lo-fi music 🎵"
+};
 ```
 
-```
-┌─────────────────────────────────────────────────┐
-│              ~ what i'm brewing ~               │
-└─────────────────────────────────────────────────┘
-```
+<br clear="right"/>
+
+**Passionate developer** crafting digital experiences that matter. I believe in writing clean, efficient code that solves real-world problems. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or enjoying a perfect cup of coffee while planning my next project.
+
+---
+
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-☕ crafting developer tools with love and attention to detail  
-📚 exploring new frameworks while jazz plays softly in the background  
-🌱 nurturing open-source projects like tending a digital garden  
-🎨 weaving ai/ml magic into cozy web experiences  
+### **Frontend Magic**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+### **Backend Power**
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### **DevOps & Tools**
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
-```
-┌─────────────────────────────────────────────────┐
-│                ~ tech palette ~                 │
-└─────────────────────────────────────────────────┘
-```
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,docker&theme=dark&perline=4" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tyecode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&icon_color=764ba2"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tyecode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyecode&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=D4A574&text_color=8B7355" height="160" alt="languages" />
-</div>
-
-```
-┌─────────────────────────────────────────────────┐
-│                ~ github vibes ~                 │
-└─────────────────────────────────────────────────┘
-```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyecode&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=1a1b27&title_color=D4A574&text_color=8B7355&icon_color=D4A574" height="160" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyecode&theme=tokyonight&hide_border=true&background=1a1b27&ring=D4A574&fire=D4A574&currStreakLabel=8B7355" height="160" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyecode&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyecode&theme=tokyo-night&bg_color=1a1b27&color=8B7355&line=D4A574&point=D4A574&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyecode&theme=tokyo-night&bg_color=0D1117&color=c9d1d9&line=667eea&point=764ba2&area=true&hide_border=true" />
 </div>
 
-<br>
+---
+
+## 🏆 **Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=tyecode&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="120" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tyecode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-```
-┌─────────────────────────────────────────────────┐
-│           ~ fuel my coding sessions ~           │
-└─────────────────────────────────────────────────┘
-```
+---
+
+## 🚀 **Current Projects & Focus**
 
 <div align="center">
+
+| 🔭 **Currently Working On** | 🌱 **Learning** | 💬 **Ask Me About** |
+|:--:|:--:|:--:|
+| AI-Powered Web Apps | Advanced React Patterns | Full-Stack Development |
+| Open Source Contributions | Cloud Architecture | Modern JavaScript |
+| Developer Tools | DevOps Practices | UI/UX Design |
+
+</div>
+
+---
+
+## 💡 **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
+</div>
+
+---
+
+## ☕ **Support My Work**
+
+<div align="center">
+  <p><strong>Enjoying my projects? Buy me a coffee to fuel more coding sessions!</strong></p>
+  
   <a href="https://www.buymeacoffee.com/tyecode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=buy%20me%20a%20coffee&logo=buymeacoffee&label=&color=8B7355&logoColor=white&labelColor=D4A574&style=flat-square" height="35" alt="coffee" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <img width="12" />
+  &nbsp;&nbsp;
   <a href="https://www.ko-fi.com/tyecode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=support%20on%20ko-fi&logo=ko-fi&label=&color=8B7355&logoColor=white&labelColor=D4A574&style=flat-square" height="35" alt="ko-fi" />
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,6,26&height=80&section=footer&text=&fontSize=0" />
-</div>
-
-```
-┌─────────────────────────────────────────────────┐
-│            ~ my coding journey ~                │
-└─────────────────────────────────────────────────┘
-```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tyecode&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=D4A574&text_color=8B7355&icon_color=D4A574&layout=compact" height="120" alt="coding time" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/tyecode/tyecode/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution grid" />
+  <img src="https://github.com/tyecode/tyecode/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <div align="center">
-  <sub>✨ crafted with love, coffee, and lo-fi beats ✨</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <sub>✨ **Made with ❤️ by tyecode** ✨</sub>
+  <br>
+  <sub>🚀 **Always learning, always building** 🚀</sub>
 </div>
