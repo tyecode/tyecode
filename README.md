@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1500&color=8B7355&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Cozy+Code+and+Coffee;Building+with+warmth+and+passion;Brewing+solutions+one+line+at+a+time;Always+coding,+always+cozy" alt="Cozy Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1500&color=8B7355&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Where+Coffee+Meets+Code;Building+Tomorrow's+Digital+Experiences;Always+Learning,+Always+Growing" alt="Animated Developer Taglines" />
 </div>
 
 <br>
@@ -111,9 +111,7 @@ When I'm not coding, you can find me exploring new technologies, working on pers
 </div>
 
 <div align="center">
-  <sub>✨ **Crafted with love, coffee, and lo-fi beats** ✨</sub>
-  <br>
-  <sub>🎵 **Always coding, always cozy** 🎵</sub>
+  <sub>🎵 **Always coding, always growing** 🎵</sub>
   <br><br>
   <img src="https://img.shields.io/badge/Made%20with-☕%20%26%20♥-d4a574?style=flat-square" />
 </div>
