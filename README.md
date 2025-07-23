@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tyecode&style=for-the-badge&color=d4a574&label=Profile Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tyecode&style=for-the-badge&color=d4a574&label=Profile+Views&labelColor=8b7355" alt="Profile Views" />
 </div>
 
 <br>
