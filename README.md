@@ -1,8 +1,36 @@
-# Hi 👋 My name is Tye
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4a574&height=150&section=header&text=tyecode&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-## Developer & Open-Source Contributor
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1500&color=8B7355&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Where+Coffee+Meets+Code;Building+Tomorrow's+Digital+Experiences;Always+Learning,+Always+Growing" alt="Animated Developer Taglines" />
+</div>
 
-### About
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tyecode" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-d4a574?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8b7355" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sengphachanh.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-e8c5a0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8b7355" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tyecode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-f4e4c1?style=for-the-badge&logo=globe&logoColor=8b7355&labelColor=d4a574" alt="Portfolio" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tyecode&style=for-the-badge&color=d4a574&label=Profile+Views&labelColor=8b7355" alt="Profile Views" />
+</div>
+
+<br>
+
+### **Welcome to My Corner**
 
 I'm a passionate developer who loves building things that make a difference. I specialize in modern web development technologies and enjoy creating developer tools and community platforms. With expertise in JavaScript, TypeScript, React, Next.js, and various backend technologies, I focus on building scalable and user-friendly applications.
 
@@ -10,45 +38,80 @@ My journey in software development started with a curiosity for solving problems
 
 When I'm not coding, you can find me exploring new technologies, working on personal projects, or secretly building something exciting.
 
-- 🌍 I'm based in Vientiane Capital, Laos
-- 🖥️ See my portfolio at [tyecode.dev](http://tyecode.dev)
-- ✉️ You can contact me at [sengphachanh.dev@gmail.com](mailto:sengphachanh.dev@gmail.com)
-- 🤝 I'm open to collaborating on developer tools or community platforms
+**🔭 What I'm Currently Working On**  
+- 🚀 Building innovative developer tools and community platforms
+- 📚 Learning new technologies and frameworks  
+- 🌟 Contributing to open-source projects
+- 🤖 Exploring AI/ML integrations in web applications
 
-### Skills
+**⚡ Fun Fact**
+- ☕ I code better with a perfect cup of coffee and lo-fi hip hop beats
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
-</p>
+<br>
 
-### Socials
+### **My Tech Toolkit**
 
-<p align="left">
-<a href="https://www.github.com/tyecode" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/tyecode" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</picture>
-</a>
-</p>
+<div align="center">
 
-### Badges
+<img src="https://img.shields.io/badge/Next.js-f4e4c1?style=for-the-badge&logo=next.js&logoColor=8b7355" />
+<img src="https://img.shields.io/badge/React-d4a574?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-e8c5a0?style=for-the-badge&logo=typescript&logoColor=8b7355" />
+<img src="https://img.shields.io/badge/JavaScript-f4e4c1?style=for-the-badge&logo=javascript&logoColor=8b7355" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-d4a574?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-e8c5a0?style=for-the-badge&logo=node.js&logoColor=8b7355" />
+<img src="https://img.shields.io/badge/Prisma-f4e4c1?style=for-the-badge&logo=prisma&logoColor=8b7355" />
+<img src="https://img.shields.io/badge/PostgreSQL-d4a574?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-e8c5a0?style=for-the-badge&logo=mongodb&logoColor=8b7355" />
+<img src="https://img.shields.io/badge/Docker-f4e4c1?style=for-the-badge&logo=docker&logoColor=8b7355" />
+<img src="https://img.shields.io/badge/Vercel-d4a574?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-e8c5a0?style=for-the-badge&logo=git&logoColor=8b7355" />
+<img src="https://img.shields.io/badge/VS_Code-f4e4c1?style=for-the-badge&logo=visual-studio-code&logoColor=8b7355" />
 
-**My GitHub Stats**
+</div>
 
-<a href="http://www.github.com/tyecode"><img src="https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tyecode's GitHub stats" /></a>
+<br>
 
-<a href="http://www.github.com/tyecode"><img src="https://streak-stats.demolab.com/?user=tyecode&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### **Code & Coffee Stats** 
 
-### Support Me
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=2d2d2d&title_color=d4a574&text_color=e8c5a0&icon_color=f4e4c1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyecode&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=2d2d2d&title_color=d4a574&text_color=e8c5a0"/>
+</div>
 
-<a href="https://www.buymeacoffee.com/tyecode"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-<a href="https://www.ko-fi.com/tyecode"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyecode&theme=github-dark&bg_color=2d2d2d&color=e8c5a0&line=d4a574&point=f4e4c1&area=true&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tyecode&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+### **Fuel My Coffee Addiction**
+
+<div align="center">
+  <p><em>Enjoying my projects? Buy me a coffee to fuel more coding sessions!</em> ☕</p>
+  
+  <a href="https://www.buymeacoffee.com/tyecode" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-d4a574?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.ko-fi.com/tyecode" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-e8c5a0?style=for-the-badge&logo=ko-fi&logoColor=8b7355" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4e4c1,50:e8c5a0,100:d4a574&height=100&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <sub>🎵 **Always coding, always growing** 🎵</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/Made%20with-☕%20%26%20♥-d4a574?style=flat-square" />
+</div>
