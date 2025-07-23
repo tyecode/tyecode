@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1500&color=8B7355&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Cozy+Code+%26+Coffee+☕;Building+with+warmth+%26+passion+🧡" alt="Cozy Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1500&color=8B7355&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Cozy+Code+and+Coffee;Building+with+warmth+and+passion;Brewing+solutions+one+line+at+a+time;Always+coding,+always+cozy" alt="Cozy Typing Animation" />
 </div>
 
 <br>
