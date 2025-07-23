@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:d4a574,50:e8c5a0,100:f4e4c1&height=180&section=header&text=tyecode&fontSize=50&fontColor=8b7355&animation=twinkling&fontAlignY=35&desc=brewing%20code%20with%20a%20cup%20of%20coffee%20☕&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4a574&height=150&section=header&text=TyeCode&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -25,12 +25,12 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tyecode&style=for-the-badge&color=d4a574&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tyecode&style=for-the-badge&color=d4a574&label=Profile Views" alt="Profile Views" />
 </div>
 
----
+<br>
 
-### **☕ Welcome to My Corner**
+### **Welcome to My Corner**
 
 I'm a passionate developer who loves building things that make a difference. I specialize in modern web development technologies and enjoy creating developer tools and community platforms. With expertise in JavaScript, TypeScript, React, Next.js, and various backend technologies, I focus on building scalable and user-friendly applications.
 
@@ -47,9 +47,9 @@ When I'm not coding, you can find me exploring new technologies, working on pers
 **⚡ Fun Fact**
 - ☕ I code better with a perfect cup of coffee and lo-fi hip hop beats
 
----
+<br>
 
-### **🛠️ My Tech Toolkit**
+### **My Tech Toolkit**
 
 <div align="center">
 
@@ -69,17 +69,13 @@ When I'm not coding, you can find me exploring new technologies, working on pers
 
 </div>
 
----
+<br>
 
-### **📊 Code & Coffee Stats** 
+### **Code & Coffee Stats** 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=2d2d2d&title_color=d4a574&text_color=e8c5a0&icon_color=f4e4c1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyecode&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=2d2d2d&title_color=d4a574&text_color=e8c5a0"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tyecode&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&background=2d2d2d&ring=d4a574&fire=e8c5a0&currStreakLabel=d4a574&sideLabels=e8c5a0&dates=f4e4c1" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -88,39 +84,15 @@ When I'm not coding, you can find me exploring new technologies, working on pers
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyecode&theme=github-dark&bg_color=2d2d2d&color=e8c5a0&line=d4a574&point=f4e4c1&area=true&hide_border=true" />
 </div>
 
----
-
-### **🏆 Coding Milestones**
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tyecode&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
----
+<br>
 
-### **🎯 My Coding Journey**
-
-<div align="center">
-
-| 🔥 **Working On** | 🌱 **Learning** | 💬 **Ask Me About** |
-|:--:|:--:|:--:|
-| AI-Powered Web Apps | Modern React Patterns | Full-Stack Development |
-| Open Source Projects | Cloud Architecture | JavaScript & TypeScript |
-| Developer Tools | DevOps Practices | Coffee & Code ☕ |
-
-</div>
-
----
-
-### **🎵 Today's Lo-Fi Coding Playlist**
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tyecode&cover_image=true&theme=novatorem&show_offline=false&background_color=f9f7f4&interchange=true&bar_color=d4a574&bar_color_cover=false" />
-</div>
-
----
-
-### **☕ Fuel My Coffee Addiction**
+### **Fuel My Coffee Addiction**
 
 <div align="center">
   <p><em>Enjoying my projects? Buy me a coffee to fuel more coding sessions!</em> ☕</p>
@@ -133,8 +105,6 @@ When I'm not coding, you can find me exploring new technologies, working on pers
     <img src="https://img.shields.io/badge/Ko--fi-e8c5a0?style=for-the-badge&logo=ko-fi&logoColor=8b7355" />
   </a>
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4e4c1,50:e8c5a0,100:d4a574&height=100&section=footer&animation=twinkling" />
