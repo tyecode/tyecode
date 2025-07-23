@@ -30,32 +30,26 @@
 
 ---
 
-## ☕ **About Me**
+### **☕ Welcome to My Corner**
 
-**Passionate developer** crafting digital experiences that matter. I believe in writing clean, efficient code that solves real-world problems. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or enjoying a perfect cup of coffee while planning my next project.
+I'm a passionate developer who loves building things that make a difference. I specialize in modern web development technologies and enjoy creating developer tools and community platforms. With expertise in JavaScript, TypeScript, React, Next.js, and various backend technologies, I focus on building scalable and user-friendly applications.
 
-Coffee and lo-fi music fuel my best work, creating the perfect atmosphere for turning ideas into reality.
+My journey in software development started with a curiosity for solving problems through code. I'm always exploring new technologies and working on projects that challenge me to grow as a developer.
 
-<div align="center">
+When I'm not coding, you can find me exploring new technologies, working on personal projects, or secretly building something exciting.
 
-```javascript
-const tyecode = {
-    role: "Full-Stack Developer & Coffee Enthusiast",
-    languages: ["JavaScript", "TypeScript", "Python"],
-    frameworks: ["React", "Next.js", "Node.js"],
-    databases: ["MongoDB", "PostgreSQL"],
-    tools: ["Docker", "Git", "VS Code"],
-    currentFocus: "Building scalable web applications",
-    playlist: "Lo-fi hip hop beats 🎵",
-    funFact: "I code better with good coffee ☕"
-};
-```
+**🔭 What I'm Currently Working On**  
+- 🚀 Building innovative developer tools and community platforms
+- 📚 Learning new technologies and frameworks  
+- 🌟 Contributing to open-source projects
+- 🤖 Exploring AI/ML integrations in web applications
 
-</div>
+**⚡ Fun Fact**
+- ☕ I code better with a perfect cup of coffee and lo-fi hip hop beats
 
 ---
 
-## 🛠️ **Tech Stack**
+### **🛠️ My Tech Toolkit**
 
 <div align="center">
 
@@ -77,26 +71,26 @@ const tyecode = {
 
 ---
 
-## 📊 **GitHub Stats**
+### **📊 Code & Coffee Stats** 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true&bg_color=f9f7f4&title_color=8b7355&text_color=8b7355&icon_color=d4a574"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyecode&layout=compact&langs_count=8&theme=calm&hide_border=true&bg_color=f9f7f4&title_color=8b7355&text_color=8b7355"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=2d2d2d&title_color=d4a574&text_color=e8c5a0&icon_color=f4e4c1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyecode&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=2d2d2d&title_color=d4a574&text_color=e8c5a0"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tyecode&locale=en&mode=daily&theme=calm&hide_border=true&border_radius=5&background=f9f7f4&ring=d4a574&fire=e8c5a0&currStreakLabel=8b7355" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tyecode&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&background=2d2d2d&ring=d4a574&fire=e8c5a0&currStreakLabel=d4a574&sideLabels=e8c5a0&dates=f4e4c1" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyecode&theme=github-compact&bg_color=f9f7f4&color=8b7355&line=d4a574&point=e8c5a0&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyecode&theme=github-dark&bg_color=2d2d2d&color=e8c5a0&line=d4a574&point=f4e4c1&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 **Achievements**
+### **🏆 Coding Milestones**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tyecode&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
@@ -104,7 +98,7 @@ const tyecode = {
 
 ---
 
-## 🌱 **Current Focus**
+### **🎯 My Coding Journey**
 
 <div align="center">
 
@@ -118,7 +112,7 @@ const tyecode = {
 
 ---
 
-## 🎵 **Today's Coding Playlist**
+### **🎵 Today's Lo-Fi Coding Playlist**
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=tyecode&cover_image=true&theme=novatorem&show_offline=false&background_color=f9f7f4&interchange=true&bar_color=d4a574&bar_color_cover=false" />
@@ -126,15 +120,7 @@ const tyecode = {
 
 ---
 
-## ☕ **Coffee & Code Philosophy**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte&quote=Good%20code%20is%20like%20good%20coffee%20-%20it%20takes%20time%2C%20care%2C%20and%20the%20right%20environment&author=tyecode" />
-</div>
-
----
-
-## 🤝 **Support My Work**
+### **☕ Fuel My Coffee Addiction**
 
 <div align="center">
   <p><em>Enjoying my projects? Buy me a coffee to fuel more coding sessions!</em> ☕</p>
