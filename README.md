@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;From+Vientiane%2C+Laos+%F0%9F%87%B1%F0%9F%87%A6;Building+Tomorrow's+Web+Today+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;From+Vientiane%2C+Laos+%F0%9F%87%B1%F0%9F%87%A6;Building+Tomorrow's+Web+Today+%E2%9C%A8" alt="Typing Animation" />
 </div>
 
 <br>
@@ -89,7 +89,7 @@ const tyecode = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tyecode&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://camo.githubusercontent.com/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d747965636f6465267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266261636b67726f756e643d3044313131372672696e673d36363765656126666972653d373634626132266375727253747265616b4c6162656c3d633964316439/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d747965636f6465267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266261636b67726f756e643d3044313131372672696e673d36363765656126666972653d373634626132266375727253747265616b4c6162656c3d633964316439" alt="GitHub Streak" />
 </div>
 
 <br>
