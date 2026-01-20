@@ -63,3 +63,11 @@
 📧 How to reach me: [sengphachanh.dev@gmail.com](mailto:sengphachanh.dev@gmail.com)
 <br>
 🌍 Portfolio: [tyecode.dev](https://tyecode.dev)
+
+## ☕ Support Me
+
+<p>
+  <a href="https://www.buymeacoffee.com/tyecode" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
