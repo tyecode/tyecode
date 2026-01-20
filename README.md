@@ -1,11 +1,8 @@
 ### Hi, I'm tyecode 👋
 
-> I'm a passionate developer who loves building things that make a difference. I specialize in modern web development technologies and enjoy creating developer tools and community platforms.
+> I make stuff for the web. Interests: cutting edge **JavaScript** tech stacks such as **React** and **Node.js**, and **AI/ML integrations**. Enthusiast of **open-source** and facilitating intuitive **UX experiences** across various platforms. Currently crafting **full-stack solutions** and exploring **new AI capabilities**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&theme=dracula&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyecode&layout=compact&theme=dracula&hide_border=true" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&theme=dracula&hide_border=true)](https://github.com/tyecode)
 
 ## ⚡ Technical Skills
 
