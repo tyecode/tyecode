@@ -2,7 +2,10 @@
 
 > I'm a passionate developer who loves building things that make a difference. I specialize in modern web development technologies and enjoy creating developer tools and community platforms.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&theme=dracula&hide_border=true)](https://github.com/tyecode)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyecode&layout=compact&theme=dracula&hide_border=true" />
+</p>
 
 ## ⚡ Technical Skills
 
