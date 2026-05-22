@@ -2,8 +2,6 @@
 
 > I make stuff for the web. Interests: cutting edge **JavaScript** tech stacks such as **React** and **Node.js**, and **AI/ML integrations**. Enthusiast of **open-source** and facilitating intuitive **UX experiences** across various platforms. Currently crafting **full-stack solutions** and exploring **new AI capabilities**.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyecode&show_icons=true&theme=dracula&hide_border=true)](https://github.com/tyecode)
-
 ## ⚡ Technical Skills
 
 ### Frontend Development
@@ -62,7 +60,7 @@
 <br>
 📧 How to reach me: [sengphachanh.dev@gmail.com](mailto:sengphachanh.dev@gmail.com)
 <br>
-🌍 Portfolio: [tyecode.dev](https://tyecode.dev)
+🌍 Portfolio: [tyecode.is-a.dev](https://tyecode.is-a.dev)
 
 ## ☕ Support Me
 
